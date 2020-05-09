@@ -16,5 +16,5 @@ int main()
   x2 = (2*3.1416*rad);
   cout<< "Area=" << x1 << endl;
   cout<< "Perimetro=" <<x2<< endl;
-  return 0; 
+  return 0;
 }
