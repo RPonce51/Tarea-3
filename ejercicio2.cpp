@@ -11,7 +11,7 @@ int main()
   float x2;
   cout<< "Ingrese el radio del circulo";
   cin>> rad;
-
+ 
   x1 = (3.1416*pow(rad, 2));
   x2 = (2*3.1416*rad);
   cout<< "Area=" << x1 << endl;
